@@ -22,9 +22,9 @@ The following Excel skills were utilized for analysis:
 
 ### Data job salaries chart.
 
-![salaries chart](assets/salarieChart.png)
+![salaries chart](assets/salariesChart.png)
 
-- **Feature** : Use the median salary of each job to compare them with one another and sort them in descending order for easier readability.
+- **Feature** : The median salary of each job is used to compare them with one another. The selected job will be highlighted with a darker shade. Salaries are sorted in descending order for easier readability.
 - **Insights Gained** : It seems that Engineering and Scientist roles tend to have higher salaries compared to Analyst roles.
 
 ### Map Chart.
